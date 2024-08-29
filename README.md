@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 GIF created with ezgif.com
 
-![Video Walkthrough](/web102_prework/ezgif.com-crop.gif)
+![Video Walkthrough](/ezgif.com-crop.gif)
 
 
 ## Notes
